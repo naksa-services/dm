@@ -1,0 +1,36 @@
+<div class="row">
+        <div class="col-12 ft">
+            <div class="row">
+                <div class="col-sm-3 f1">
+                    <img src="https://cdn-icons-png.flaticon.com/128/2170/2170024.png" width="60px" />
+                    <br>
+                    <br>
+                    <span >Become a tech friendly professional</span>
+                </div>
+                <div class="col-sm-3 f2">
+                    <img src="https://cdn-icons-png.flaticon.com/128/6421/6421944.png" width="60px"/>
+                     <br>
+                    <br>
+                    <span >Connect to More Customers</span>
+
+                </div>
+                <div class="col-sm-3 f3">
+                    <img src="https://cdn-icons-png.flaticon.com/128/10401/10401456.png" width="60"/>
+                    <br>
+                    <br>
+                    <span >24X7 Call & Chat Support
+
+                    </span>
+                </div>
+                <div class="col-sm-3 f4">
+                    <img src="https://cdn-icons-png.flaticon.com/128/4121/4121811.png" width="60"/>
+                    <br>
+                    <br>
+                    <span >Grow Your Business With Emechanics
+
+
+                </div>
+
+            </div>
+        </div>
+     </div>   
